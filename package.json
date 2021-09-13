@@ -1,0 +1,25 @@
+{
+  "name": "npm-init-example",
+  "version": "1.0.0",
+  "description": "example package.json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayele4/Team-profile-generator.git"
+  },
+  "keywords": [
+    "example",
+    "package.jason",
+    "npm",
+    "init"
+  ],
+  "author": "ayu@example.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ayele4/Team-profile-generator/issues"
+  },
+  "homepage": "https://github.com/ayele4/Team-profile-generator#readme"
+}
