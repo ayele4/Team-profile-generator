@@ -1,0 +1,28 @@
+.h1 {
+    font-size: 40px;
+}
+
+body {
+    background-color: rgb(218, 215, 255);
+}
+
+.navbar {
+    background-color: rgba(0, 0, 121, 0.918) !important;
+}
+
+.card {
+   margin: 10px;
+   border-radius: 20px;
+}
+
+.manager {
+    background-color: rgb(0, 81, 255);
+}
+
+.engineer {
+    background-color: rgb(58, 133, 87);
+}
+
+.intern {
+    background-color: rgb(201, 163, 38);
+}
