@@ -1,3 +1,5 @@
+![License](https://img.shields.io/static/v1?label=License&message=MIT&color=BLUE)
+
 # Team-profile-generator
 
 # Description
@@ -6,12 +8,12 @@ the project for this week is to create a backend application that would run in t
 
 # Table of contentes
 
-* Installation
-* Usage
-* License
-* Contributing
-* Tests
-* Questions
+- [Installation](#installation)
+- [Usage](usage)
+- [License](license)
+- [Contributing](contributing)
+- [Tests](tests)
+- [Questions](questions)
 
 # Installation
 
@@ -24,7 +26,7 @@ Download the application and run the installation process. Inthe command line ru
 # Licenses
 
 * MIT
-#Contributing
+# Contributing
 
 * Ayele Lintamo
 # Technologies Used
@@ -40,7 +42,7 @@ Download the application and run the installation process. Inthe command line ru
 
 
 # Screenshots
-
+<img width="1419" alt="Screen Shot 2021-11-02 at 8 54 55 PM" src="https://user-images.githubusercontent.com/84227686/140008325-7e3d213d-f14d-4c06-8fc2-05a9d9e34c2b.png">
 
 # Questions
 
