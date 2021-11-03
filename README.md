@@ -6,12 +6,12 @@ the project for this week is to create a backend application that would run in t
 
 # Table of contentes
 
-* Installation
-* Usage
-* License
-* Contributing
-* Tests
-* Questions
+- [Installation](#installation)
+- [Usage]
+- [License]
+- [Contributing]
+- [Tests]
+- [Questions]
 
 # Installation
 
