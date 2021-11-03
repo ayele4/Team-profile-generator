@@ -44,6 +44,9 @@ Download the application and run the installation process. Inthe command line ru
 # Screenshots
 <img width="1419" alt="Screen Shot 2021-11-02 at 8 54 55 PM" src="https://user-images.githubusercontent.com/84227686/140008325-7e3d213d-f14d-4c06-8fc2-05a9d9e34c2b.png">
 
+<img width="1171" alt="Screen Shot 2021-11-03 at 3 49 20 AM" src="https://user-images.githubusercontent.com/84227686/140048668-860a03bf-617b-4fb4-9a10-f66f88b2451e.png">
+
+
 # Questions
 
 Contact Information for questions:
