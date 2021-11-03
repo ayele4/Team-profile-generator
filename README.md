@@ -1,4 +1,4 @@
-# Team-profile-generator
+![License](https://img.shields.io/static/v1?label=License&message=MIT&color=BLUE)# Team-profile-generator
 
 # Description
 
