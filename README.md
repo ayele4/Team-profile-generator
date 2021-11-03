@@ -7,11 +7,11 @@ the project for this week is to create a backend application that would run in t
 # Table of contentes
 
 - [Installation](#installation)
-- [Usage]
-- [License]
-- [Contributing]
-- [Tests]
-- [Questions]
+- [Usage](usage)
+- [License](license)
+- [Contributing](contributing)
+- [Tests](tests)
+- [Questions](questions)
 
 # Installation
 
