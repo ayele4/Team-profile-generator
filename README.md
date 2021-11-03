@@ -24,7 +24,7 @@ Download the application and run the installation process. Inthe command line ru
 # Licenses
 
 * MIT
-#Contributing
+# Contributing
 
 * Ayele Lintamo
 # Technologies Used
