@@ -39,7 +39,7 @@ Download the application and run the installation process. Inthe command line ru
  Tests can be found in the 'tests' directory of the application.To run a test simply type 'npm run test' in the command line.
 
 # Tutorial Video
-
+https://drive.google.com/file/d/1tvnPQOaIy-21e41Q5M_aTR8DOHH9qK1Z/view?usp=sharing
 
 # Screenshots
 <img width="1419" alt="Screen Shot 2021-11-02 at 8 54 55 PM" src="https://user-images.githubusercontent.com/84227686/140008325-7e3d213d-f14d-4c06-8fc2-05a9d9e34c2b.png">
